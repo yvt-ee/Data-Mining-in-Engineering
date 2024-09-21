@@ -2,7 +2,7 @@
 
 Focus area: Data analysis using Python.
 
-🔑 key learnings:
+🔑 **key learnings:**
 This course covers the theory and applications of data mining in
 engineering.
 

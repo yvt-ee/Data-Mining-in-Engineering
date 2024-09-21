@@ -20,4 +20,6 @@ sectors are discussed.
 
 # 📚 Projects
 
-## Project 1 - Explore Housing Price Trends
+## [Project 1 - Explore Housing Price Trends](https://github.com/yvt-ee/Data-Mining-in-Engineering/blob/main/Project%201%20-%20Explore%20Housing%20Price%20Trends.ipynb)
+
+Navigating and visualizing the housing data using Python, leveraging libraries like Pandas, Matplotlib, and Seaborn. Explore, clean, visualize, and analysis data effectively.

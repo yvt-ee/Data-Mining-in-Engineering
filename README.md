@@ -30,3 +30,13 @@ Principal Component Analysis (PCA) is a powerful dimensionality reduction techni
 
 ## [#3 K-Nearest_Neighbors_for_random_dataset](https://github.com/yvt-ee/Data-Mining-in-Engineering/blob/main/%233%20K-Nearest_Neighbors_for_random_dataset.ipynb)
 The K-Neighbors Classifier, also known as K-Nearest Neighbors (KNN), is a supervised machine learning algorithm commonly used for classification tasks. It classifies new data points based on their similarity to the closest 'neighbors' in the feature space, measured by distance metrics such as Euclidean distance. This simple yet effective algorithm can be easily implemented using libraries like scikit-learn sklearn.
+
+
+## [#4 logistic regression on random dataset](https://github.com/yvt-ee/Data-Mining-in-Engineering/blob/main/%234%20LR%20on%20random%20dataset.ipynb)
+Logistic regression is a supervised machine learning algorithm widely used for binary classification tasks, such as identifying whether an email is spam or not and diagnosing diseases by assessing the presence or absence of specific conditions based on patient test results.
+
+## [#5 Decision trees on random dataset](https://github.com/yvt-ee/Data-Mining-in-Engineering/blob/main/%235%20Decision%20trees%20on%20random%20dataset.ipynb)
+A decision tree is a decision support hierarchical model that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. It is one way to display an algorithm that only contains conditional control statements.
+
+
+
